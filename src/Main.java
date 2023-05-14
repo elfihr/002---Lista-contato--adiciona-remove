@@ -52,7 +52,7 @@ public class Main {
                     if (Agenda.remove(nome)) {
                         System.out.println("Contato removido");
                     } else {
-                        System.out.println("COntato nao existe na Lista de Contato");
+                        System.out.println("Contato nao existe na Lista de Contato");
                     }
                 }
 
